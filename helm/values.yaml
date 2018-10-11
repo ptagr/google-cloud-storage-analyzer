@@ -1,0 +1,3 @@
+app: google-cloud-storage-analyzer
+storageLogsBucket: n-storage-logs-bucket
+bucketSizesFile: storage-buckets-size.csv
